@@ -1,0 +1,8 @@
+{
+  "name": "Remix Campus to Career",
+  "description": "Connecting Vizag college talent with verified local internships through AI matching and automated T\u0026P compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
